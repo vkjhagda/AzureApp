@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RoleModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ImageReSizeWebRole" version="2.9.6499.4" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+  <Runtime>
+    <EntryPoint>
+      <NetFxEntryPoint assemblyName="ImageReSizeWebRole.dll" targetFrameworkVersion="v4.0" />
+    </EntryPoint>
+  </Runtime>
+  <Properties>
+    <Property name="TargetFrameworkVersion" value="v4.5.2" />
+    <Property name="RoleType" value="Web" />
+    <Property name="RoleName" value="ImageReSizeWebRole" />
+    <Property name="ProjectName" value="ImageReSizeWebRole" />
+    <Property name="Configuration" value="Debug" />
+    <Property name="Platform" value="AnyCPU" />
+    <Property name="SetConfiguration" value="Configuration=Debug" />
+    <Property name="SetPlatform" value="Platform=AnyCPU" />
+    <Property name="RoleTargetFramework" value="v4.5.2" />
+    <Property name="OutputDir" value="\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\" />
+    <Property name="EntryPoint" value="ImageReSizeWebRole.dll" />
+    <Property name="SourceDir" value="\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\ImageReSizeWebRole\" />
+    <Property name="SitePhysicalPath" value="\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\ImageReSizeWebRole\" />
+    <Property name="TargetRuntimeVersion" value="v4.0" />
+  </Properties>
+  <Sites>
+    <Site name="Web" physicalDirectory="\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\ImageReSizeWebRole\">
+      <Bindings>
+        <Binding name="Endpoint1" endpointName="Endpoint1" />
+      </Bindings>
+    </Site>
+  </Sites>
+</RoleModel>

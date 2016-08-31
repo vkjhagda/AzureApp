@@ -1,0 +1,528 @@
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\bin\Debug\ServiceConfiguration.cscfg
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\bin\Debug\ServiceDefinition.csdef
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Antlr3.Runtime.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Antlr3.Runtime.pdb
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\de\System.Spatial.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\EntityFramework.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\EntityFramework.SqlServer.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\EntityFramework.SqlServer.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\EntityFramework.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\es\System.Spatial.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\fr\System.Spatial.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\HelperClass.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\HelperClass.pdb
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ImageReSizeWebRole.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ImageReSizeWebRole.dll.config
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ImageReSizeWebRole.pdb
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\it\System.Spatial.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ja\System.Spatial.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ko\System.Spatial.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Azure.KeyVault.Core.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Azure.KeyVault.Core.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.Edm.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.Edm.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.OData.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.OData.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.Services.Client.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.Services.Client.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Google.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Google.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Web.Infrastructure.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Storage.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Storage.pdb
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Storage.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\MonAgentListener.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Newtonsoft.Json.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Newtonsoft.Json.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Owin.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\csc.exe
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\System.Collections.Immutable.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\vbc.exe
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\VBCSCompiler.exe
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\VBCSCompiler.exe.config
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ru\System.Spatial.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Spatial.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Spatial.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Helpers.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Helpers.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Mvc.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Mvc.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Optimization.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Optimization.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Razor.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Razor.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.Deployment.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.Deployment.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.Razor.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.Razor.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.xml
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\WebGrease.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\de\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\de\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\de\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\de\System.Spatial.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\es\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\es\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\es\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\es\System.Spatial.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\fr\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\fr\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\fr\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\fr\System.Spatial.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\HelperClass.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\HelperClass.pdb
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ImageReSizeWorkerRole.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ImageReSizeWorkerRole.dll.config
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ImageReSizeWorkerRole.pdb
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\it\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\it\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\it\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\it\System.Spatial.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ja\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ja\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ja\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ja\System.Spatial.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ko\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ko\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ko\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ko\System.Spatial.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.Azure.KeyVault.Core.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.Data.Edm.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.Data.OData.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.Data.Services.Client.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.WindowsAzure.Configuration.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.WindowsAzure.Storage.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.WindowsAzure.Storage.pdb
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\MonAgentListener.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Newtonsoft.Json.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ru\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ru\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ru\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ru\System.Spatial.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\System.Spatial.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hans\System.Spatial.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hant\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\bin\Debug\ServiceConfiguration.cscfg
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\bin\Debug\ServiceDefinition.csdef
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Antlr3.Runtime.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Antlr3.Runtime.pdb
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\de\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\de\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\de\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\EntityFramework.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\EntityFramework.SqlServer.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\EntityFramework.SqlServer.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\EntityFramework.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\es\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\es\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\es\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\fr\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\fr\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\HelperClass.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\HelperClass.pdb
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ImageReSizeWebRole.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ImageReSizeWebRole.dll.config
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ImageReSizeWebRole.pdb
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\it\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\it\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\it\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ja\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ja\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ko\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ko\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Azure.KeyVault.Core.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Azure.KeyVault.Core.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.Edm.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.Edm.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.OData.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.OData.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.Services.Client.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.Services.Client.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Google.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Google.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Web.Infrastructure.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Storage.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Storage.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\MonAgentListener.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Newtonsoft.Json.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Newtonsoft.Json.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Owin.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\csc.exe
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\System.Collections.Immutable.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\System.Reflection.Metadata.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\vbc.exe
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\VBCSCompiler.exe
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\VBCSCompiler.exe.config
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ru\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ru\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Spatial.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Spatial.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Helpers.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Helpers.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Mvc.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Mvc.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Optimization.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Optimization.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Razor.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Razor.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.Deployment.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.Deployment.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.Razor.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.Razor.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\WebGrease.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hans\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hant\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\de\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\de\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\de\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\de\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\es\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\es\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\es\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\es\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\fr\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\fr\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\fr\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\fr\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ImageReSizeWorkerRole.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ImageReSizeWorkerRole.dll.config
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ImageReSizeWorkerRole.pdb
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\it\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\it\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\it\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\it\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ja\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ja\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ja\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ja\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ko\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ko\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ko\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ko\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.Azure.KeyVault.Core.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.Data.Edm.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.Data.OData.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.Data.Services.Client.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.WindowsAzure.Configuration.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.WindowsAzure.Diagnostics.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.WindowsAzure.Storage.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.WindowsAzure.Storage.pdb
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\MonAgentListener.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Newtonsoft.Json.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ru\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ru\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ru\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ru\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\System.Spatial.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hans\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hant\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\HelperClass.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\HelperClass.pdb
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\bin\Debug\ServiceConfiguration.cscfg
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\bin\Debug\ServiceDefinition.csdef
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Antlr3.Runtime.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Antlr3.Runtime.pdb
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\de\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\de\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\de\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\EntityFramework.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\EntityFramework.SqlServer.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\EntityFramework.SqlServer.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\EntityFramework.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\es\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\es\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\es\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\fr\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\fr\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\HelperClass.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\HelperClass.pdb
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ImageReSizeWebRole.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ImageReSizeWebRole.dll.config
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ImageReSizeWebRole.pdb
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\it\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\it\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\it\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ja\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ja\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ko\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ko\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.Core.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.Core.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.Owin.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.AspNet.Identity.Owin.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Azure.KeyVault.Core.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Azure.KeyVault.Core.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.Edm.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.Edm.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.OData.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.OData.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.Services.Client.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Data.Services.Client.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Cookies.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Cookies.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Facebook.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Facebook.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Google.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Google.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.OAuth.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.OAuth.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Twitter.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.Twitter.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.Security.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Owin.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.Web.Infrastructure.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Configuration.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Storage.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Storage.pdb
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Microsoft.WindowsAzure.Storage.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\MonAgentListener.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Newtonsoft.Json.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Newtonsoft.Json.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\Owin.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\csc.exe
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.CSharp.Core.targets
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\System.Collections.Immutable.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\System.Reflection.Metadata.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\vbc.exe
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\VBCSCompiler.exe
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\roslyn\VBCSCompiler.exe.config
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ru\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\ru\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Spatial.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Spatial.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Helpers.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Helpers.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Mvc.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Mvc.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Optimization.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Optimization.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Razor.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.Razor.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.Deployment.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.Deployment.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.Razor.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.Razor.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\System.Web.WebPages.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\WebGrease.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hans\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWebRole\bin\zh-Hant\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\de\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\de\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\de\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\de\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\es\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\es\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\es\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\es\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\fr\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\fr\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\fr\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\fr\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\HelperClass.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\HelperClass.pdb
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ImageReSizeWorkerRole.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ImageReSizeWorkerRole.dll.config
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ImageReSizeWorkerRole.pdb
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\it\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\it\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\it\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\it\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ja\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ja\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ja\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ja\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ko\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ko\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ko\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ko\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.Azure.KeyVault.Core.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.Data.Edm.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.Data.OData.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.Data.Services.Client.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.WindowsAzure.Configuration.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.WindowsAzure.Diagnostics.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.WindowsAzure.Storage.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Microsoft.WindowsAzure.Storage.pdb
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\MonAgentListener.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\Newtonsoft.Json.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ru\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ru\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ru\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\ru\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\System.Spatial.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hans\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hans\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hans\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hant\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hant\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing\obj\Debug\ImageReSizeWorkerRole\zh-Hant\System.Spatial.resources.dll

@@ -1,0 +1,176 @@
+c:\users\swaroop.padala\documents\visual studio 2015\Projects\TableStorageSampleApp\HelperClass\obj\Debug\HelperClass.dll
+C:\Users\Swaroop.Padala\documents\visual studio 2015\Projects\TableStorageSampleApp\HelperClass\obj\Debug\HelperLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\HelperClass.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\HelperClass.pdb
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\System.Spatial.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\System.Spatial.xml
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\obj\Debug\HelperClass.dll
+C:\Users\Swaroop.Padala\Documents\Visual Studio 2015\Projects\TableStorageSampleApp\HelperLibrary\obj\Debug\HelperClass.pdb
+C:\Users\Swaroop.Padala\Documents\visual studio 2015\Projects\TableStorageSampleApp\HelperLibrary\obj\Debug\HelperLibrary.csprojResolveAssemblyReference.cache
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\HelperClass.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\HelperClass.pdb
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.Data.Edm.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.Data.OData.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\System.Spatial.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.Data.Edm.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.Data.OData.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\System.Spatial.xml
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\de\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\es\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\fr\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\it\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ja\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ko\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ru\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\obj\Debug\HelperLibrary.csprojResolveAssemblyReference.cache
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\obj\Debug\HelperClass.dll
+D:\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\obj\Debug\HelperClass.pdb
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\HelperClass.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\HelperClass.pdb
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.Data.Edm.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.Data.OData.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.Data.Services.Client.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Newtonsoft.Json.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\System.Spatial.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.Data.Edm.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.Data.OData.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.Data.Services.Client.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\Newtonsoft.Json.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\System.Spatial.xml
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\de\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\es\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\it\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\de\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\es\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\fr\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\it\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ja\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ko\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\ru\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\zh-Hans\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\bin\Debug\zh-Hant\System.Spatial.resources.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\obj\Debug\HelperLibrary.csprojResolveAssemblyReference.cache
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\obj\Debug\HelperClass.dll
+\\RCV02\Users\Public\AzureSampleProject\AzureCloudServiceImageProcessing\HelperLibrary\obj\Debug\HelperClass.pdb

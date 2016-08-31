@@ -1,0 +1,33 @@
+﻿
+@using (Html.BeginForm("ImageUpload", "Home",
+                                            FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div>Please select an image to upload</div>
+    <input name="postedFile" type="file" required>
+    <input type="submit" value="Upload Image" /><hr />
+    if (@ViewBag.allImages != null)
+    {
+        foreach (var item in ViewBag.allImages)
+        {
+            <img src=@item alt="Mountain View" style="width:304px;height:228px;"><hr />
+        }
+    }
+    if (@ViewBag.all20by20Images != null)
+    {
+        foreach (var item in ViewBag.all20by20Images)
+        {
+            <img src=@item alt="Mountain View"><hr />
+        }
+    }
+    if (@ViewBag.all40by40Images != null)
+    {
+        foreach (var item in ViewBag.all40by40images)
+        {
+            <img src=@item alt="Mountain View"><hr />
+        }
+    }
+}
+
+
+
+

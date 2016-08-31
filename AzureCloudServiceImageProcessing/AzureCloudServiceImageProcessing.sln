@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzureCloudServiceImageProcessing", "AzureCloudServiceImageProcessing\AzureCloudServiceImageProcessing.ccproj", "{73635D8D-F378-40F3-8B7A-D96235EE847C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageReSizeWebRole", "ImageReSizeWebRole\ImageReSizeWebRole.csproj", "{85180314-3968-49F6-B2C6-E90373F28513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageReSizeWorkerRole", "ImageReSizeWorkerRole\ImageReSizeWorkerRole.csproj", "{EB2CBA8D-FB98-42B3-BAF0-CE133EF4B4C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperLibrary", "HelperLibrary\HelperLibrary.csproj", "{6B916DDE-3554-4CDE-8297-123774AAD31D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73635D8D-F378-40F3-8B7A-D96235EE847C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73635D8D-F378-40F3-8B7A-D96235EE847C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73635D8D-F378-40F3-8B7A-D96235EE847C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73635D8D-F378-40F3-8B7A-D96235EE847C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85180314-3968-49F6-B2C6-E90373F28513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85180314-3968-49F6-B2C6-E90373F28513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85180314-3968-49F6-B2C6-E90373F28513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85180314-3968-49F6-B2C6-E90373F28513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2CBA8D-FB98-42B3-BAF0-CE133EF4B4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2CBA8D-FB98-42B3-BAF0-CE133EF4B4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2CBA8D-FB98-42B3-BAF0-CE133EF4B4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2CBA8D-FB98-42B3-BAF0-CE133EF4B4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B916DDE-3554-4CDE-8297-123774AAD31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B916DDE-3554-4CDE-8297-123774AAD31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B916DDE-3554-4CDE-8297-123774AAD31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B916DDE-3554-4CDE-8297-123774AAD31D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
